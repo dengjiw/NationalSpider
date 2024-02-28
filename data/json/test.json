@@ -1,0 +1,406 @@
+{
+    "id": "5c336de0-a361-968f-7a3a-f105d2d72ec6",
+    "global_title": {
+        "zh-CN": "亿以内数的认识"
+    },
+    "global_description": {},
+    "global_keywords": {},
+    "global_label": {},
+    "custom_properties": {
+        "preview": {
+            "Slide2": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/2.jpg",
+            "Slide1": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/1.jpg",
+            "Slide4": "https://r2-ndr.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/4.jpg",
+            "Slide3": "https://r3-ndr.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/3.jpg"
+        },
+        "auto_fill_thumb": true,
+        "sys_trans_status": "TRANSCODED",
+        "format": "docx",
+        "alias_name": "教学设计",
+        "resolution": "794*1123",
+        "size": 26094,
+        "width": "794",
+        "thumbnails": [
+            "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/1.jpg?v=1697524053152"
+        ],
+        "height": "1123",
+        "teachingmaterial_info": {
+            "status": "ONLINE",
+            "create_time": "2022-01-24T10:27:52.000+0800",
+            "online_time": "2023-02-08T15:29:28.464+0800",
+            "update_time": "2023-10-24T14:22:58.424+0800",
+            "custom_properties": {
+                "auto_fill_thumb": false,
+                "size": 0,
+                "ext_properties": {
+                    "origin_type": "x_course"
+                },
+                "thumbnails": [
+                    "https://r1-ndr.ykt.cbern.com.cn/edu_product/esp/assets/654e3d1e-c995-4340-81c5-abd7881d835b.t/zh-CN/1695883879269/transcode/image/1.jpg?v=1695884114402"
+                ],
+                "providers": [
+                    "ce5c90c5-1780-414c-9f0a-26fe1807ccb8"
+                ]
+            },
+            "title": "小学四年级上数学(人教版)",
+            "description": null,
+            "id": "208f77e0-0d63-4ca2-8a4c-86af05dd72de",
+            "resource_type_code": "teachingmaterials",
+            "resource_type_code_name": "教材",
+            "language": "zh-CN",
+            "tag_list": [
+                {
+                    "tag_id": "2RC4XgwnvkIoXucpn6OOpm",
+                    "tag_name": "同步课资源视图",
+                    "tag_dimension_id": "tagView",
+                    "order_num": 197
+                },
+                {
+                    "tag_id": "ff8080814371757b01437c363a187b0a",
+                    "tag_name": "人教版",
+                    "tag_dimension_id": "zxxbb",
+                    "order_num": 277
+                },
+                {
+                    "tag_id": "ff8080814371757b014390f883db0453",
+                    "tag_name": "上册",
+                    "tag_dimension_id": "zxxcc",
+                    "order_num": 228
+                },
+                {
+                    "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                    "tag_name": "四年级",
+                    "tag_dimension_id": "zxxnj",
+                    "order_num": 14
+                },
+                {
+                    "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+                    "tag_name": "小学",
+                    "tag_dimension_id": "zxxxd",
+                    "order_num": 0
+                },
+                {
+                    "tag_id": "e7bbcf80-0590-11ed-9c79-92fc3b3249d5",
+                    "tag_name": "数学",
+                    "tag_dimension_id": "zxxxk",
+                    "order_num": 1
+                }
+            ],
+            "container_id": "c2902adb-60f3-465f-a2dd-010be9eed835",
+            "ti_items": []
+        },
+        "lesson_info": {
+            "status": "ONLINE",
+            "title": "亿以内数的认识",
+            "id": "330c9ea4-8aae-43d1-a4a2-3d0bf03f448b",
+            "resource_type_code": "national_lesson",
+            "tag_list": [
+                {
+                    "tag_id": "502036371442",
+                    "tag_name": "课程包",
+                    "tag_dimension_id": "bklx",
+                    "order_num": 6
+                },
+                {
+                    "tag_id": "ff8080814371757b01437c363a187b0a",
+                    "tag_name": "人教版",
+                    "tag_dimension_id": "zxxbb",
+                    "order_num": 277
+                },
+                {
+                    "tag_id": "ff8080814371757b014390f883db0453",
+                    "tag_name": "上册",
+                    "tag_dimension_id": "zxxcc",
+                    "order_num": 228
+                },
+                {
+                    "tag_id": "e7bbd3ea-0590-11ed-9c79-92fc3b3249d5",
+                    "tag_name": "四年级",
+                    "tag_dimension_id": "zxxnj",
+                    "order_num": 14
+                },
+                {
+                    "tag_id": "week1",
+                    "tag_name": "第一周",
+                    "tag_dimension_id": "zxxweek",
+                    "order_num": 0
+                },
+                {
+                    "tag_id": "e7bbb2de-0590-11ed-9c79-92fc3b3249d5",
+                    "tag_name": "小学",
+                    "tag_dimension_id": "zxxxd",
+                    "order_num": 0
+                },
+                {
+                    "tag_id": "e7bbcf80-0590-11ed-9c79-92fc3b3249d5",
+                    "tag_name": "数学",
+                    "tag_dimension_id": "zxxxk",
+                    "order_num": 1
+                }
+            ],
+            "teacher_list": [
+                {
+                    "id": "2b569e0a-120d-4d3d-bbcb-c43a4291284c",
+                    "name": "王伟",
+                    "nick_name": "100836",
+                    "intro": "北京小学数学教师，西城区优秀教师，北京市骨干教师。",
+                    "photo_id": "4bd586cf-f01f-49eb-b319-3df6c1a00591"
+                }
+            ],
+            "faculty_advisor_list": [
+                {
+                    "id": "de4a0934-a7ac-458f-94a1-9d8b75bf7f6a",
+                    "name": "郝俊颖",
+                    "nick_name": "101206",
+                    "intro": "郝俊颖老师是北京市西城区教育研修学院小学数学研修员，北京市小学数学学科骨干教师。",
+                    "photo_id": "4bd586cf-f01f-49eb-b319-3df6c1a00591"
+                }
+            ],
+            "provider_list": [
+                {
+                    "name": "教育部资源中心",
+                    "id": "2511c3fd-22ca-42e2-80d0-b41645115be6",
+                    "type": "provider"
+                }
+            ],
+            "chapter_paths": [
+                "5c87108c-9cf3-3409-9d86-1abbbdefcd22/459b24e8-ad1f-388e-9f2a-01d735833576"
+            ]
+        }
+    },
+    "resource_type_code": "lesson_plandesign",
+    "language": "zh-CN",
+    "create_time": "2023-10-17T14:25:56.635+0800",
+    "update_time": "2023-10-27T17:41:49.278+0800",
+    "tag_list": [
+        {
+            "tag_id": "5036342817",
+            "tag_name": "教学设计",
+            "tag_dimension_id": "bklx",
+            "order_num": 0
+        }
+    ],
+    "status": "ONLINE",
+    "create_container_id": "c2902adb-60f3-465f-a2dd-010be9eed835",
+    "resource_type_code_name": "教学设计",
+    "ti_items": [
+        {
+            "ti_md5": "",
+            "ti_size": 0,
+            "ti_storage": "cs_path:${ref-path}/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image",
+            "ti_storages": [
+                "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image",
+                "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image",
+                "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image"
+            ],
+            "ti_file_flag": "image",
+            "ti_is_source_file": false,
+            "custom_properties": {
+                "requirements": [
+                    {
+                        "name": "width",
+                        "type": "QUOTA",
+                        "value": "794"
+                    },
+                    {
+                        "name": "pagesize",
+                        "type": "QUOTA",
+                        "value": "4"
+                    },
+                    {
+                        "name": "height",
+                        "type": "QUOTA",
+                        "value": "1123"
+                    },
+                    {
+                        "name": "FileSize",
+                        "type": "QUOTA",
+                        "value": "95765"
+                    },
+                    {
+                        "name": "displaymode",
+                        "type": "QUOTA",
+                        "value": "vertical"
+                    }
+                ],
+                "identification": true
+            },
+            "ti_printable": false,
+            "ti_format": "folder",
+            "lc_ti_format": "image/jpg",
+            "language": "zh-CN"
+        },
+        {
+            "ti_md5": "e0c34530d8897cf67b17dc40ad042fad",
+            "ti_size": 95765,
+            "ti_storage": "cs_path:${ref-path}/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/pdf.pdf",
+            "ti_storages": [
+                "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/pdf.pdf",
+                "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/pdf.pdf",
+                "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/pdf.pdf"
+            ],
+            "ti_file_flag": "pdf",
+            "ti_is_source_file": false,
+            "custom_properties": {
+                "requirements": [
+                    {
+                        "name": "width",
+                        "type": "QUOTA",
+                        "value": "794"
+                    },
+                    {
+                        "name": "pagesize",
+                        "type": "QUOTA",
+                        "value": "4"
+                    },
+                    {
+                        "name": "height",
+                        "type": "QUOTA",
+                        "value": "1123"
+                    },
+                    {
+                        "name": "FileSize",
+                        "type": "QUOTA",
+                        "value": "95765"
+                    },
+                    {
+                        "name": "displaymode",
+                        "type": "QUOTA",
+                        "value": "vertical"
+                    }
+                ],
+                "identification": true
+            },
+            "ti_printable": false,
+            "ti_format": "pdf",
+            "lc_ti_format": "application/pdf",
+            "language": "zh-CN"
+        },
+        {
+            "ti_md5": "2dace0c5de39a9c6a64b75ae0df71a49",
+            "ti_size": 26094,
+            "ti_storage": "cs_path:${ref-path}/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.pkg/course/ppt/20230919-2/2022CJQJ文档/2022QJ04SXRJ001/亿以内数的认识_教学设计.docx",
+            "ti_storages": [
+                "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.pkg/course/ppt/20230919-2/2022CJQJ文档/2022QJ04SXRJ001/亿以内数的认识_教学设计.docx",
+                "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.pkg/course/ppt/20230919-2/2022CJQJ文档/2022QJ04SXRJ001/亿以内数的认识_教学设计.docx",
+                "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.pkg/course/ppt/20230919-2/2022CJQJ文档/2022QJ04SXRJ001/亿以内数的认识_教学设计.docx"
+            ],
+            "ti_file_flag": "source",
+            "ti_is_source_file": true,
+            "custom_properties": {
+                "requirements": [
+                    {
+                        "name": "width",
+                        "type": "QUOTA",
+                        "value": "794"
+                    },
+                    {
+                        "name": "pagesize",
+                        "type": "QUOTA",
+                        "value": "4"
+                    },
+                    {
+                        "name": "height",
+                        "type": "QUOTA",
+                        "value": "1123"
+                    },
+                    {
+                        "name": "FileSize",
+                        "type": "QUOTA",
+                        "value": "26094"
+                    },
+                    {
+                        "name": "displaymode",
+                        "type": "QUOTA",
+                        "value": "vertical"
+                    }
+                ],
+                "identification": true
+            },
+            "ti_printable": false,
+            "ti_format": "docx",
+            "lc_ti_format": "docx",
+            "language": "zh-CN"
+        },
+        {
+            "ti_md5": "",
+            "ti_size": 0,
+            "ti_storage": "cs_path:${ref-path}/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image",
+            "ti_storages": [
+                "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image",
+                "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image",
+                "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image"
+            ],
+            "ti_file_flag": "thumbnail",
+            "ti_is_source_file": false,
+            "custom_properties": {
+                "requirements": [
+                    {
+                        "name": "width",
+                        "type": "QUOTA",
+                        "value": "794"
+                    },
+                    {
+                        "name": "pagesize",
+                        "type": "QUOTA",
+                        "value": "4"
+                    },
+                    {
+                        "name": "height",
+                        "type": "QUOTA",
+                        "value": "1123"
+                    },
+                    {
+                        "name": "FileSize",
+                        "type": "QUOTA",
+                        "value": "95765"
+                    },
+                    {
+                        "name": "displaymode",
+                        "type": "QUOTA",
+                        "value": "vertical"
+                    }
+                ],
+                "identification": true
+            },
+            "ti_printable": false,
+            "ti_format": "folder",
+            "lc_ti_format": "image/jpg",
+            "language": "zh-CN"
+        },
+        {
+            "ti_md5": "739830fdbb9ccccd42ca024317fbd94a",
+            "ti_size": 474561,
+            "ti_storage": "cs_path:${ref-path}/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/1.jpg",
+            "ti_storages": [
+                "https://r1-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/1.jpg",
+                "https://r2-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/1.jpg",
+                "https://r3-ndr-private.ykt.cbern.com.cn/edu_product/esp/lesson_plandesign/5c336de0-a361-968f-7a3a-f105d2d72ec6.t/zh-CN/1697523956737/transcode/image/1.jpg"
+            ],
+            "ti_file_flag": "thumbnail_1",
+            "ti_is_source_file": false,
+            "custom_properties": {
+                "identification": true
+            },
+            "ti_printable": false,
+            "ti_format": "jpg",
+            "lc_ti_format": "image/jpg",
+            "language": "zh-CN"
+        }
+    ],
+    "resource_container_cp": {
+        "tag_weight_score_bknd": [],
+        "resource_source": "CREATE",
+        "is_top": 0,
+        "compound_node": "sub"
+    },
+    "online_time": "2023-10-23T09:02:59.573+0800",
+    "teachmeterial_ids": [],
+    "tag_paths": [],
+    "container_id": "c2902adb-60f3-465f-a2dd-010be9eed835",
+    "tenant_id": "1",
+    "smart_link": {
+        "smart_link": "https://x-link.ykt.eduyun.cn/smart_links/206863551512577?qrEventName=smartlink&resourceId=5c336de0-a361-968f-7a3a-f105d2d72ec6&resource_id=5c336de0-a361-968f-7a3a-f105d2d72ec6"
+    },
+    "title": "亿以内数的认识"
+}

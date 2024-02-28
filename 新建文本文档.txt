@@ -1,0 +1,10 @@
+# 说明
+
+此文档为归总文档，具体使用详情在各子目录下的README.md文件
+
+## 爬虫网站列表
+
+1. [国家中小学智慧教育平台](https://www.zxx.edu.cn/syncClassroom/prepare) —— NationalSpider
+2. [广州共享课堂](https://gzclass.gztv.com/gksubjecpc/index.html) —— GuangzhouSpider
+3. [甘肃教育资源网](http://www.gsres.cn/search/index.php?from=ew) —— GansuSpider
+

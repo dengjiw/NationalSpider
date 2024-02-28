@@ -1,0 +1,18 @@
+example_excel_path: ../../data/excel/示例表.xls #create_excel 示例表存储路径
+
+teaching_jcb_excel_path: ../../data/excel/教材表1218.xls # 教材表存储路径
+
+# teaching_plan_excel_path: ../../data/excel/教案excel110-total.xls #create_excel 教案表存储路径
+teaching_plan_excel_path: ../../data/excel/教案excel228-total.xls #create_excel 教案表存储路径
+
+teaching_plan_download_path: ../../../result/全部教案 # 全部教案存储路径
+
+teaching_plan_word_path: ../../../result/全部教案/word版本 # 教案word版本存储路径
+
+teaching_plan_save_path: ../../../result/按目录存储 #教案按目录存储路径
+
+teaching_assets_download_concurrency: 20 # 下载并发数 （推荐）
+teaching_design_download_concurrency: 40 # 下载并发数 （推荐）
+teaching_video_download_concurrency: 5  # 下载并发数 （推荐）
+
+temp_path: ../../temp # 临时文件存放路径
